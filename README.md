@@ -3,45 +3,90 @@
 <h1 align="center">👋 Hi, I'm Siddhant Kumar</h1>
 
 <p align="center">
-🚀 Passionate Web Developer | MERN Stack Learner <br>
-💡 Love building real-world projects
-</p> 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,cpp" />
+🚀 Web Developer | MERN Stack Learner <br>
+💡 Building real-world projects & improving every day
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=50&color=00FFAA">
+</p>
+
+---
+
+## 🧠 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔥 JavaScript developer with hands-on projects  
+- 📚 Currently learning **C++ & DSA**  
+- ⚛️ Exploring **React & modern UI/UX**  
+- 💡 Love solving real-world problems  
+- 🚀 Goal: Become Full Stack Developer  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,cpp,mongodb,git,github,vscode" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&theme=radical)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantKumar07&theme=react-dark)
-## 🚀 Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siddhantKumar07&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-- 🔹 Chat App Backend (Node.js)
-- 🔹 Portfolio Website
-- 🔹 Event Management System
-## 🔥 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- ✅ Learning JavaScript, React & Node.js
-- 📚 Solving DSA problems
-- 🎯 Goal: Become Full Stack Developer
-- 💡 Always curious to learn new tech
-- ## 🛠️ Technologies & Tools
+---
 
-- 💻 Languages: JavaScript, C++, HTML, CSS
-- ⚛️ Frontend: React (learning)
-- 🧠 Other Skills: Problem Solving, Async Programming
-<!--
-**siddhantKumar07/siddhantKumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Contribution Activity
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantKumar07&theme=tokyo-night" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantKumar07&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| 💬 Chat Backend | Real-time chat backend | Node.js |
+| 🌐 Portfolio | Personal portfolio website | HTML, CSS, JS |
+| 📅 Event Manager | Event management system | JavaScript |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:siddhantk80044@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ <b>"Code. Learn. Build. Repeat."</b> 🚀
+</p>
 - ⚡ Fun fact: ...
 -->
