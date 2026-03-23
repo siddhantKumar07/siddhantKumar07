@@ -37,9 +37,6 @@ Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
