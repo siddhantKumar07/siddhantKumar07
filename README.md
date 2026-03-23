@@ -1,92 +1,76 @@
-## Hi there 👋
-
-<h1 align="center">👋 Hi, I'm Siddhant Kumar</h1>
+<h1 align="center">Siddhant Kumar</h1>
 
 <p align="center">
-🚀 Web Developer | MERN Stack Learner <br>
-💡 Building real-world projects & improving every day
+  Frontend Developer • Learning Backend (Node.js) • MERN Stack
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=50&color=00FFAA">
+  <a href="mailto:siddhantk80044@gmail.com">Email</a> • 
+  <a href="https://portfolio-3dtm.vercel.app/">Portfolio</a> • 
+  <a href="www.linkedin.com/in/siddhant-kumar-476747303">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I’m a frontend developer with a strong foundation in building responsive and interactive web applications.  
+Currently expanding my skills into backend development using Node.js to become a full stack developer.
 
-- 🔥 JavaScript developer with hands-on projects  
-- 📚 Currently learning **C++ & DSA**  
-- ⚛️ Exploring **React & modern UI/UX**  
-- 💡 Love solving real-world problems  
-- 🚀 Goal: Become Full Stack Developer  
+- Skilled in **HTML, CSS, JavaScript**
+- Building UI with **modern frontend practices**
+- Currently learning **Node.js & backend development**
+- Interested in real-world, scalable applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,cpp,mongodb,git,github,vscode" />
-</p>
+**Frontend**  
+HTML • CSS • JavaScript  
+
+**Currently Learning**  
+Node.js • Backend Development • APIs  
+
+**Tools**  
+Git • GitHub • VS Code  
 
 ---
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Activity
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&hide_border=true&title_color=000&text_color=444&icon_color=000&bg_color=ffffff" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddhantKumar07&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&hide_border=true&title_color=000&text_color=444&bg_color=ffffff" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🚀 Projects
+
+### 🔹 Chat Backend   
+Learning backend development using Node.js  
+
+### 🔹 Portfolio Website  
+Responsive personal portfolio built with HTML, CSS, JavaScript  
+
+### 🔹 Event Management System  
+Frontend project with dynamic functionality  
 
 ---
 
-## 🔥 Contribution Activity
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantKumar07&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhantKumar07&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|------------|------|
-| 💬 Chat Backend | Real-time chat backend | Node.js |
-| 🌐 Portfolio | Personal portfolio website | HTML, CSS, JS |
-| 📅 Event Manager | Event management system | JavaScript |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:siddhantk80044@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- Email: siddhantk80044@gmail.com  
+- Location: Uttar Pradesh, India  
 
 ---
 
 <p align="center">
-  ⭐️ <b>"Code. Learn. Build. Repeat."</b> 🚀
+  <i>Learning. Building. Improving every day.</i>
 </p>
-- ⚡ Fun fact: ...
--->
