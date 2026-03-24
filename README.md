@@ -40,15 +40,21 @@ Git • GitHub • VS Code
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&hide_border=true&title_color=000&text_color=444&icon_color=000&bg_color=ffffff" width="90%"/>
+<<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantKumar07&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&hide_border=true&title_color=000&text_color=444&bg_color=ffffff" width="60%"/>
 </p>
 
+<p align="center">
+  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=siddhantKumar07)" width="60%"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantKumar07)
 ## 🚀 Projects
+
 
 ### 🔹 Chat Backend   
 Learning backend development using Node.js  
