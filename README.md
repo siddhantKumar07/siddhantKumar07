@@ -47,10 +47,10 @@ Git • GitHub • VS Code
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantKumar07&layout=compact&hide_border=true&title_color=000&text_color=444&bg_color=ffffff" width="60%"/>
 </p>
-
 <p align="center">
-  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=siddhantKumar07)" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=siddhantKumar07&theme=tokyonight" />
 </p>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantKumar07)
 ## 🚀 Projects
