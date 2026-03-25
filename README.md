@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:siddhantk80044@gmail.com">Email</a> • 
   <a href="https://portfolio-3dtm.vercel.app/">Portfolio</a> • 
-  <a href="www.linkedin.com/in/siddhant-kumar-476747303">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/siddhant-kumar-476747303">LinkedIn</a>
 </p>
 
 ---
