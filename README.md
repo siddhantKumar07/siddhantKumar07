@@ -5,35 +5,59 @@
 </p>
 
 <p align="center">
-  <a href="mailto:siddhantk80044@gmail.com">Email</a> • 
-  <a href="https://portfolio-3dtm.vercel.app/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/siddhant-kumar-476747303">LinkedIn</a>
+  <a href="mailto:siddhantk80044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://portfolio-3dtm.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/siddhant-kumar-476747303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About
+## 🚀 About Me
 
-I’m a frontend developer with a strong foundation in building responsive and interactive web applications.  
-Currently expanding my skills into backend development using Node.js to become a full stack developer.
+💻 Frontend Developer passionate about building responsive & interactive web applications  
+🌱 Currently leveling up into **Full Stack Development** with Node.js  
 
-- Skilled in **HTML, CSS, JavaScript**
-- Building UI with **modern frontend practices**
-- Currently learning **Node.js & backend development**
-- Interested in real-world, scalable applications
+---
 
+### ⚡ What I Do
+- 🎨 Craft modern, responsive UI using **HTML, CSS, JavaScript**
+- 🧠 Focus on clean design & smooth user experience
+- 🛠️ Exploring backend development with **Node.js**
+- 🚀 Interested in building real-world, scalable applications
+
+---
+
+### 🔥 Current Focus
+![Frontend](https://img.shields.io/badge/Frontend-Expert-E34C26?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Goal-FullStack-6C5CE7?style=for-the-badge)
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-HTML • CSS • JavaScript  
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Currently Learning**  
-Node.js • Backend Development • APIs  
+### Currently Learning
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-6C5CE7?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-00B894?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**Tools**  
-Git • GitHub • VS Code  
+### Tools
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
