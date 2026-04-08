@@ -39,6 +39,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-Expert-E34C26?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Goal-FullStack-6C5CE7?style=for-the-badge)
+
 ---
 
 ## 🛠️ Tech Stack
