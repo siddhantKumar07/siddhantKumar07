@@ -33,7 +33,7 @@
 - 🛠️ Exploring backend development with **Node.js**
 - 🚀 Interested in building real-world, scalable applications
 
----
+----
 
 ### 🔥 Current Focus
 ![Frontend](https://img.shields.io/badge/Frontend-Expert-E34C26?style=for-the-badge)
