@@ -18,8 +18,6 @@
   </a>
 </p>
 
---
-
 ## 🚀 About Me
 
 💻 Frontend Developer passionate about building responsive & interactive web applications  
