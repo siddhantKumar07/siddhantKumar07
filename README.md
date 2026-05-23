@@ -1,4 +1,4 @@
- <h1 align="center">Siddhant Kumar</h1>
+<h1 align="center">Siddhant Kumar</h1>
 
 <p align="center">
   Frontend Developer • Learning Backend (Node.js) • MERN Stack
