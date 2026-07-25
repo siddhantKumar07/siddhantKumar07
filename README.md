@@ -3,7 +3,7 @@
   Frontend Developer • Learning Backend (Node.js) • MERN Stack
 </p>
 
-<p align="center">
+<p align="center color=red">
   <a href="mailto:siddhantk80044@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
