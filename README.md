@@ -2,7 +2,6 @@
 <p align="center">
   Frontend Developer • Learning Backend (Node.js) • MERN Stack
 </p>
-
 <p align="center ">
   <a href="mailto:siddhantk80044@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,7 +19,6 @@
 
 💻 Frontend Developer passionate about building responsive & interactive web applications  
 🌱 Currently leveling up into **Full Stack Development** with Node.js  
-
 ----
 
 ### ⚡ What I Do
