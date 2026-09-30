@@ -25,7 +25,6 @@
 - 🚀 Interested in building real-world, scalable applications
 
 -----
-
 ### 🔥 Current Focus
 ![Frontend](https://img.shields.io/badge/Frontend-Expert-E34C26?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-68A063?style=for-the-badge&logo=node.js&logoColor=white)
