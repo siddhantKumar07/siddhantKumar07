@@ -2,7 +2,6 @@
 
 <p align="center">
   Frontend Developer • Learning Backend (Node.js) • MERN Stack
-  
 </p>
 <p align="center ">
   <a href="mailto:siddhantk80044@gmail.com">
