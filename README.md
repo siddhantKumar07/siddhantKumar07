@@ -21,6 +21,7 @@
 
 ## 🚀 About Me
 💻 Frontend Developer passionate about building responsive & interactive web applications  
+
 🌱 Currently leveling up into **Full Stack Development** with Node.js  
 ----
 
